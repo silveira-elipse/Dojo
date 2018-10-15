@@ -1,2 +1,2 @@
 # Dojo
-EPM Coding Dojo repository
+EPM Coding Dojo repository - 道場
